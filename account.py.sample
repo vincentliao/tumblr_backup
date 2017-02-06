@@ -1,0 +1,17 @@
+# You can get authentication info by following url.
+# 'Register an App': https://www.tumblr.com/oauth/apps 
+
+info = {
+    'account1': {
+        'consumer_key': 'get this from tumblr',
+        'consumer_secret': 'get this from tumblr',
+        'oauth_secret': 'get this from tumblr',
+        'oauth_token': 'get this from tumblr'
+    },
+    'account2': { # if you have multiple accounts to access tumblr
+        'consumer_key': 'get this from tumblr',
+        'consumer_secret': 'get this from tumblr',
+        'oauth_secret': 'get this from tumblr',
+        'oauth_token': 'get this from tumblr'
+    }
+}
